@@ -1,0 +1,15 @@
+h1 {
+  font-size: 60px;
+  color: white;
+}
+body {
+  background-color: black;
+}
+p{ 
+  color: white;
+  font-weight: bold;
+  }
+
+img {
+   width: 200px;
+}
